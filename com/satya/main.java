@@ -1,6 +1,5 @@
 package com.satya;
 
-import javax.sound.sampled.SourceDataLine;
 
 class Satya {
     public static void main(String[] args){
